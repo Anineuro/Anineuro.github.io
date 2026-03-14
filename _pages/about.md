@@ -7,11 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras] (https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. 
+Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. My research focuses on understanding how large-scale brain dynamics emerge from interacting neural systems.
 
-My research focuses on developing whole-brain models that integrate multimodal neuroimaging data, particularly simultaneous EEG–fMRI signals, to better understand large-scale brain dynamics. Along with that, I am also interested how the comperatively, static structural Connectivity manifest a more dynamic functional connectivity. Scu data driven models regularly utilizes the multi-modal data from Functional Magnetic Resonance Imaging (fMRI), Diffusion Tensor Imaging (DTI), EEG (ElectroEncephalography) etc. 
+Research Overview
+======
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+🚀 Whole-Brain Modeling
+======
+
+My research focuses on developing mechanistic whole-brain models that integrate multimodal neuroimaging data, particularly simultaneous EEG–fMRI recordings, to better understand large-scale brain dynamics.
+
+A central question in my work is how relatively static structural connectivity gives rise to highly dynamic functional connectivity in the brain. To address this, I develop models that combine structural and functional data from modalities such as:
+
+⚙️ Functional Magnetic Resonance Imaging (fMRI)
+
+⚙️ Diffusion Tensor Imaging (DTI)
+
+⚙️ Electroencephalography (EEG)
+
+🚀 These research works explore how mechanistic models grounded in nonlinear dynamics can capture frequency, phase, and amplitude relationships across brain networks. By combining data-driven learning with biologically inspired dynamical systems, I aim to bridge microscopic neural activity with macroscopic brain signals. Where the traditional brain model, like the Hodhkin-Huxley model relies on rigorous parameter optimization technique, the pure machine learning based models are devoid of any biological inferecne. The Dynamical system based models capturing the brain rhythm and providing meaningful biological inference can act as a perfect whole brain model. Refer to  the Research Tab fore more information.
+
+ 🚀  Does Brain Act alone ?? Recent discoveries found that the visceral organs shapes brain dynamics. I closed loop feedback model has been in process to made to deduce the realationship between brain and other viseceral organs. Refer to  the Research Tab fore more information. 
+ 
+ 🚀 In 
+
+
+
+
 
 Personal Information
 ======
