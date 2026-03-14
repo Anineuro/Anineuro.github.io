@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Scholar"
   location         : "Chennai, India"
-  employer         : "Indian Madras"
+  employer         : #URL
   uri              : # URL
   email            : "anirbanbanerjee096@gmail.com" 
 
