@@ -71,7 +71,7 @@ I am influenced by the work of Catherine Tallon-Baudry. [https://sites.google.co
 
 
 
-Earlier Projects (Masters)
+Earlier Projects 
 ====
 
 ## Projects - 4: Mathematical Model of Neurovascular Coupling.
@@ -82,9 +82,38 @@ This work presents a computational framework to investigate neurovascular coupli
 
 *Figure: An integrated neuro-hemodynamic whole-brain model.*
 <p align="center">
-<img src="/images/EEG_fMRI.png" width="700"><br>
+<img src="/images/Neurovascular_coupling.png" width="700"><br>
 <em>Figure: A biolocial pathway of Neurovascular Coupling. Taken from https://doi.org/10.1016/j.jtbi.2020.110297</em>
 </p>
+
+### Related Publication
+
+🔗 Bandyopadhyay, A., Sharma, G., & Chowdhury, S. R. (2020). Computational analysis of NIRS and BOLD signal from neurovascular coupling with three neuron-system feedforward inhibition network. Journal of Theoretical Biology, 498, 110297.[https://doi.org/10.1016/j.jtbi.2020.110297](https://doi.org/10.1016/j.jtbi.2020.110297)
+
+🔗 A. Bandyopadhyay, G. Sharma and S. Roy Chowdhury, "A Computational Model to Analyse E/I (Excitation/Inhibition) Dynamics for Neural Network Integrated with Astrocyte," 2020 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB), Via del Mar, Chile, 2020, pp. 1-8, doi: [https://doi.org/10.1109/CIBCB48159.2020.9277698](https://doi.org/10.1109/CIBCB48159.2020.9277698)
+
+
+## Projects - 5: System level Analysis of Neurovascular Coupling with tDCS-EEG-NIRS.
+
+These preliminary studies investigate the neural and vascular dynamics associated with ischemic stroke and its rehabilitation. Using anodal transcranial direct current stimulation (tDCS), the work explores methods to differentiate between healthy and lesioned hemispheres based on stimulation-induced neurophysiological responses. In parallel, the studies analyze changes in vascular activity and neurovascular coupling during stroke rehabilitation interventions. Together, these investigations provide early insights into how brain stimulation and rehabilitation techniques influence cortical and vascular responses, with potential implications for improving stroke assessment and recovery strategies.
+
+*Figure: An integrated neuro-hemodynamic whole-brain model.*
+<p align="center">
+<img src="/images/Neurovascular_coupling.png" width="700"><br>
+<em>Figure: A biolocial pathway of Neurovascular Coupling. Taken from https://doi.org/10.1016/j.jtbi.2020.110297</em>
+</p>
+
+### Related Publication
+
+🔗  Sharma, G., Bandopadhyay, A., & Chowdhury, S. R. (2020). P111 a preliminary study on vascular activity with ischemic stroke rehabilitation technique. Clinical Neurophysiology, 131(4), e73-e75.
+
+🔗 Sharma, G., Bandopadhyay, A., & Chowdhury, S. R. (2020). P41 A Preliminary Study to Classify Healthy and Lesioned Hemisphere of Ischemic Stroke Patients with Anodal Transcranial Direct Current Stimulation Technique. Clinical Neurophysiology, 131(4), e199-e200.
+
+
+
+
+
+
 
 
 Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/), [documentation](https://docs.mathjax.org/en/latest/)) is included in the template:
