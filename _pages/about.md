@@ -12,9 +12,8 @@ Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.a
 Research Overview
 ======
 
- 🚀 Whole Brain Modelling
- =====
-My research focuses on developing mechanistic whole-brain models that integrate multimodal neuroimaging data, particularly simultaneous EEG–fMRI recordings, to better understand large-scale brain dynamics. A central question in my work is how relatively static structural connectivity gives rise to highly dynamic functional connectivity in the brain. To address this, I develop models that combine structural and functional data from modalities such as:
+##  🚀 Dynamical Systems for Brain Activity 
+ My research focuses on developing mechanistic whole-brain models that integrate multimodal neuroimaging data, particularly simultaneous EEG–fMRI recordings, to better understand large-scale brain dynamics. A central question in my work is how relatively static structural connectivity gives rise to highly dynamic functional connectivity in the brain. To address this, I develop models that combine structural and functional data from modalities such as:
 
 ⚙️ Functional Magnetic Resonance Imaging (fMRI)
 ⚙️ Diffusion Tensor Imaging (DTI)
@@ -27,7 +26,7 @@ My work explores how nonlinear dynamical systems can capture the fundamental pro
  Does the brain operate in isolation?
 Recent research suggests that visceral organs can significantly influence brain dynamics. I am currently developing a closed-loop feedback model to study interactions between the brain and peripheral physiological systems, with the goal of understanding how bodily signals shape neural activity. Refer to the "Research Experinece" Tab for more.
  
- ##  🚀 Other Projects
+##  🚀 Other Projects
  I worked other very intersting concepts like- Neurovascular coupling, how the neural activities orchestarte the vascular dynamics medisted by a cascade of biological events in Astrocyte. I also worked on non-invasive brain stimulation to rehabilitate brain disorders, like Cerebral Ischemic Stroke 
 
 
