@@ -12,7 +12,7 @@ redirect_from:
 Projects Completed 
 =====
 
-## Projects - 1: Building a whole brain model to understand Functional Connectivity from Structural Connectivity. (Ref: )
+## Projects - 1: Building a whole brain model to understand Functional Connectivity from Structural Connectivity. 
 
 This work proposes a phenomenological whole-brain model in which each brain region is represented by a Hopf oscillator, capturing the transition between noisy and oscillatory neural dynamics. The oscillators are coupled through the underlying structural connectivity network, while interactions between regions are modeled using power-coupling, which enables stable phase relationships among oscillators operating at different intrinsic frequencies. This formulation allows the model to capture cross-frequency phase interactions and large-scale synchronization patterns observed in empirical brain signals. By integrating neuroimaging-derived connectivity with nonlinear dynamical systems, the framework provides an efficient and biologically interpretable approach to modeling whole-brain dynamics and emergent functional connectivity. 
 
@@ -22,8 +22,23 @@ This models has-
 * Impact of Structural prunning of functional information of the brain.
 * Modification of the oscillator network parameters can restore the functional alteration.
 
-*Figure: Whole-brain network model using coupled Hopf oscillators with power coupling.[Bandyopadhyay, A., Ghosh, S., Biswas, D. et al. A phenomenological model of whole brain dynamics using a network of neural oscillators with power-coupling. Sci Rep 13, 16935 (2023). [https://doi.org/10.1038/s41598-023-43547-3](https://doi.org/10.1038/s41598-023-43547-3)*
+*Figure: Whole-brain network model using coupled Hopf oscillators with power coupling.*
 ![Hopf Oscillator Whole Brain Model](/images/fmri_model1.png)
+*Taken from [https://doi.org/10.1038/s41598-023-43547-3](https://doi.org/10.1038/s41598-023-43547-3)*
+
+### Related Pubmication
+🔗 Bandyopadhyay, A., Ghosh, S., Biswas, D. et al. A phenomenological model of whole brain dynamics using a network of neural oscillators with power-coupling. Sci Rep 13, 16935 (2023). https://doi.org/10.1038/s41598-023-43547-3](https://doi.org/10.1038/s41598-023-43547-3)
+
+🔗 Bandyopadhyay, A., Ghosh, S., Biswas, D., Surampudi, R.B., Chakravarthy, V.S. (2023). A Phenomenological Deep Oscillatory Neural Network Model to Capture the Whole Brain Dynamics in Terms of BOLD Signal. In: Tanveer, M., Agarwal, S., Ozawa, S., Ekbal, A., Jatowt, A. (eds) Neural Information Processing. ICONIP 2022. Lecture Notes in Computer Science, vol 13624. Springer,[https://doi.org/10.1007/978-3-031-30108-7_14](https://doi.org/10.1007/978-3-031-30108-7_14)
+
+🔗  Bandyopadhyay, A., Ghosh, S., Biswas, D., Surampudi, R.B., Chakravarthy, V.S. (2023).A trainable oscillatory neural network for modelling BOLD signals, SFN, 2022
+
+
+
+## Projects - 2: A Mechanistic model to capture simultaneous EEG-fMRI DATA.
+
+This work presents a mechanistic whole-brain modeling framework designed to simultaneously capture electrophysiological and hemodynamic brain signals. The model integrates neural population dynamics with structural connectivity to generate oscillatory activity consistent with EEG recordings, while a hemodynamic forward model maps the neural activity to BOLD signals observed in fMRI. By jointly modeling these two modalities, the framework provides a unified approach to linking fast neuronal oscillations with slower hemodynamic responses, enabling a deeper understanding of the mechanisms underlying multimodal brain signals and large-scale brain dynamics. 
+
 
 ## MathJax 
 
