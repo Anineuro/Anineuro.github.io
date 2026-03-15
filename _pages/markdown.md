@@ -49,7 +49,7 @@ This work presents a mechanistic whole-brain modeling framework designed to simu
 *Taken from [https://doi.org/10.1038/s41598-023-43547-3](https://doi.org/10.1038/s41598-023-43547-3)*
 
 
- ###Related Publication
+### Related Publication
  
 🔗 Anirban Bandyopadhyay, V Srinivasa Chakravarthy, Dipanjan Roy, A mechanistic whole brain model to capture simultaneous EEG-fMRI data, Cerebral Cortex, Volume 36, Issue 1, January 2026, bhag002, 
 [https://doi.org/10.1093/cercor/bhag002](https://doi.org/10.1093/cercor/bhag002)
