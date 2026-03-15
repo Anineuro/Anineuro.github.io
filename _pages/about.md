@@ -12,32 +12,35 @@ Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.a
 Research Overview
 ======
 
-🚀 Whole-Brain Modeling
-======
+🚀 ## Whole-Brain Modeling 
 
-My research focuses on developing mechanistic whole-brain models that integrate multimodal neuroimaging data, particularly simultaneous EEG–fMRI recordings, to better understand large-scale brain dynamics.
-
-A central question in my work is how relatively static structural connectivity gives rise to highly dynamic functional connectivity in the brain. To address this, I develop models that combine structural and functional data from modalities such as:
+My research focuses on developing mechanistic whole-brain models that integrate multimodal neuroimaging data, particularly simultaneous EEG–fMRI recordings, to better understand large-scale brain dynamics. A central question in my work is how relatively static structural connectivity gives rise to highly dynamic functional connectivity in the brain. To address this, I develop models that combine structural and functional data from modalities such as:
 
 ⚙️ Functional Magnetic Resonance Imaging (fMRI)
-
 ⚙️ Diffusion Tensor Imaging (DTI)
-
 ⚙️ Electroencephalography (EEG)
 
-🚀 These research works explore how mechanistic models grounded in nonlinear dynamics can capture frequency, phase, and amplitude relationships across brain networks. By combining data-driven learning with biologically inspired dynamical systems, I aim to bridge microscopic neural activity with macroscopic brain signals. Where the traditional brain model, like the Hodhkin-Huxley model relies on rigorous parameter optimization technique, the pure machine learning based models are devoid of any biological inferecne. The Dynamical system based models capturing the brain rhythm and providing meaningful biological inference can act as a perfect whole brain model. Refer to  the Research Tab fore more information.
+🚀 ## Dynamical Systems for Brain Activity 
+My work explores how nonlinear dynamical systems can capture the fundamental properties of brain rhythms, including relationships in frequency, phase, and amplitude across large-scale brain networks. Traditional biophysical models such as the Hodgkin–Huxley framework rely on extensive parameter optimization, while purely machine learning–based models often lack biological interpretability. Dynamical-system–based approaches offer a principled middle ground by combining biological plausibility with data-driven learning, enabling interpretable models of large-scale neural dynamics. Refer to the "Research Experinece" Tab for more.
 
- 🚀  Does Brain Act alone ?? Recent discoveries found that the visceral organs shapes brain dynamics. I closed loop feedback model has been in process to made to deduce the realationship between brain and other viseceral organs. Refer to  the Research Tab fore more information. 
+ 🚀 ## Brain–Body Interactions
+ Does the brain operate in isolation?
+
+Recent research suggests that visceral organs can significantly influence brain dynamics. I am currently developing a closed-loop feedback model to study interactions between the brain and peripheral physiological systems, with the goal of understanding how bodily signals shape neural activity. Refer to the "Research Experinece" Tab for more.
  
- 🚀 In 
+ 🚀 ## Other Projects
 
+ I worked other very intersting concepts like- Neurovascular coupling, how the neural activities orchestarte the vascular dynamics medisted by a cascade of biological events in Astrocyte. I also worked on non-invasive brain stimulation to rehabilitate brain disorders, like Cerebral Ischemic Stroke 
 
 
 
 
 Personal Information
 ======
-Originally I am from a historical town named [Bishnupur](https://wbtourism.gov.in/topDestination/details1?template_id=1&id=63e7c702f21baf83e8050ee1) from sate of West Bengal in India 
+Originally I am from a historical town named [Bishnupur](https://wbtourism.gov.in/topDestination/details1?template_id=1&id=63e7c702f21baf83e8050ee1) from state of West Bengal in India. I keep interest in recent technological advancement, History, and  Indian phylosophy. I love playing and watching sports - 🏏 Cricket, ⚽ Football , 🏸 Badminton. 
+
+Trying to be a good coder 💻, and better at 🏸 Badminton. 
+
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
