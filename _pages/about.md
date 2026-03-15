@@ -20,15 +20,15 @@ My research focuses on developing mechanistic whole-brain models that integrate 
 ⚙️ Diffusion Tensor Imaging (DTI)
 ⚙️ Electroencephalography (EEG)
 
-##  🚀  Dynamical Systems for Brain Activity 
+##  🚀 Dynamical Systems for Brain Activity 
 My work explores how nonlinear dynamical systems can capture the fundamental properties of brain rhythms, including relationships in frequency, phase, and amplitude across large-scale brain networks. Traditional biophysical models such as the Hodgkin–Huxley framework rely on extensive parameter optimization, while purely machine learning–based models often lack biological interpretability. Dynamical-system–based approaches offer a principled middle ground by combining biological plausibility with data-driven learning, enabling interpretable models of large-scale neural dynamics. Refer to the "Research Experinece" Tab for more.
 
- ##  🚀  Brain–Body Interactions
+ ##  🚀 Brain–Body Interactions
  Does the brain operate in isolation?
 
 Recent research suggests that visceral organs can significantly influence brain dynamics. I am currently developing a closed-loop feedback model to study interactions between the brain and peripheral physiological systems, with the goal of understanding how bodily signals shape neural activity. Refer to the "Research Experinece" Tab for more.
  
- ##  🚀  Other Projects
+ ##  🚀 Other Projects
 
  I worked other very intersting concepts like- Neurovascular coupling, how the neural activities orchestarte the vascular dynamics medisted by a cascade of biological events in Astrocyte. I also worked on non-invasive brain stimulation to rehabilitate brain disorders, like Cerebral Ischemic Stroke 
 
