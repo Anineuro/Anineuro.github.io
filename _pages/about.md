@@ -12,7 +12,8 @@ Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.a
 Research Overview
 ======
 
- ##  🚀 Whole Brain Modelling
+ 🚀 Whole Brain Modelling
+ =====
 My research focuses on developing mechanistic whole-brain models that integrate multimodal neuroimaging data, particularly simultaneous EEG–fMRI recordings, to better understand large-scale brain dynamics. A central question in my work is how relatively static structural connectivity gives rise to highly dynamic functional connectivity in the brain. To address this, I develop models that combine structural and functional data from modalities such as:
 
 ⚙️ Functional Magnetic Resonance Imaging (fMRI)
