@@ -45,8 +45,8 @@ This work presents a mechanistic whole-brain modeling framework designed to simu
 * The model shows the importance of Structural connectivity, and the impact of structural pruning on functional information, modularity, and integration-segregation.
 
 *Figure: An integrated neuro-hemodynamic whole-brain model.*
-![Hopf Oscillator Whole Brain Model](/images/fmri_model1.png)
-*Taken from [https://doi.org/10.1038/s41598-023-43547-3](https://doi.org/10.1038/s41598-023-43547-3)*
+![Hopf Oscillator Whole Brain Model](/images/EEG_fMRI.png)
+*Taken from [https://doi.org/10.1093/cercor/bhag002](https://doi.org/10.1093/cercor/bhag002)*
 
 
 ### Related Publication
@@ -59,6 +59,14 @@ network of nonlinear oscillators, COSYNE, 2026.
 
 Projects Ongoing
 ====
+
+## Projects - 3: A Mechanistic model to understand relationship between brain rhythm and Heart Rhythm.
+*Does the brain operate in isolation?* 
+
+Influnce of brain dynamics by autonomic nervous sytem has been in mystery. We think that Dynamical system can provide the adequate tool to decipher the Heart-Brain aand Gut- Brain Axis. 
+
+I am influenced by the work of Catherine Tallon-Baudry. [https://sites.google.com/view/tallon-baudry-lab/home?authuser=0](https://sites.google.com/view/tallon-baudry-lab/home?authuser=0), and his works regarding in this area.  
+
 
 
 ## MathJax 
