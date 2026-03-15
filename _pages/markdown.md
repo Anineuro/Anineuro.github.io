@@ -99,7 +99,7 @@ These preliminary studies investigate the neural and vascular dynamics associate
 
 *Figure:*
 <p align="center">
-<img src="/images/tdcs_EEG.png" width="700"><br>
+<img src="/images/tdcs-EEG.png" width="700"><br>
 <em>Figure: Simultaneius recording of EEG and NIRS with application of tDCS. Taken from https://doi.org/10.1016/j.jtbi.2020.110297</em>
 </p>
 
