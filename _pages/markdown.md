@@ -80,7 +80,11 @@ Computational Analysis of NIRS and BOLD Signals from Neurovascular Coupling Usin
 
 This work presents a computational framework to investigate neurovascular coupling by modeling the relationship between neuronal activity and hemodynamic signals measured through Near-Infrared Spectroscopy (NIRS) and BOLD fMRI. The model incorporates a three-neuron feedforward inhibition network to capture the interplay between excitatory and inhibitory neural populations that drive vascular responses. By integrating neural dynamics with a hemodynamic response model, the study analyzes how different patterns of neuronal activity give rise to observable NIRS and BOLD signals. The framework provides insights into the mechanisms linking neural circuit activity with vascular responses underlying functional brain imaging signals.
 
-
+*Figure: An integrated neuro-hemodynamic whole-brain model.*
+<p align="center">
+<img src="/images/EEG_fMRI.png" width="700"><br>
+<em>Figure: A biolocial pathway of Neurovascular Coupling. Taken from https://doi.org/10.1016/j.jtbi.2020.110297</em>
+</p>
 
 
 Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/), [documentation](https://docs.mathjax.org/en/latest/)) is included in the template:
