@@ -22,6 +22,9 @@ This models has-
 * Impact of Structural prunning of functional information of the brain.
 * Modification of the oscillator network parameters can restore the functional alteration.
 
+*Figure: Whole-brain network model using coupled Hopf oscillators with power coupling.*
+![Hopf Oscillator Whole Brain Model](/images/fmri_model1.png)
+
 ## MathJax 
 
 Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/), [documentation](https://docs.mathjax.org/en/latest/)) is included in the template:
