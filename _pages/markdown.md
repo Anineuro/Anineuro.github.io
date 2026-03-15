@@ -7,11 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
-{% include toc %}
 
 
+Projects Completed 
+=====
 
-## Tips and hints
+## Projects - 1: Building a whole brain model to understand Functional Connectivity from Structural Connectivity
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version GitHub built with Jekyll. 
