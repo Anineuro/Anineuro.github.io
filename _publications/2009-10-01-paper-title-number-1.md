@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/EEG_fMRI Mechanistic Model
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2026-10-01
 venue: 'Cerebral Cortex'
 
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
