@@ -12,7 +12,7 @@ redirect_from:
 Projects Completed 
 =====
 
-## Projects - 1: Building a whole brain model to understand Functional Connectivity from Structural Connectivity
+## Projects - 1: Building a whole brain model to understand Functional Connectivity from Structural Connectivity. (Ref: )
 
 This work proposes a phenomenological whole-brain model in which each brain region is represented by a Hopf oscillator, capturing the transition between noisy and oscillatory neural dynamics. The oscillators are coupled through the underlying structural connectivity network, while interactions between regions are modeled using power-coupling, which enables stable phase relationships among oscillators operating at different intrinsic frequencies. This formulation allows the model to capture cross-frequency phase interactions and large-scale synchronization patterns observed in empirical brain signals. By integrating neuroimaging-derived connectivity with nonlinear dynamical systems, the framework provides an efficient and biologically interpretable approach to modeling whole-brain dynamics and emergent functional connectivity. 
 
@@ -22,7 +22,7 @@ This models has-
 * Impact of Structural prunning of functional information of the brain.
 * Modification of the oscillator network parameters can restore the functional alteration.
 
-*Figure: Whole-brain network model using coupled Hopf oscillators with power coupling.*
+*Figure: Whole-brain network model using coupled Hopf oscillators with power coupling.[Bandyopadhyay, A., Ghosh, S., Biswas, D. et al. A phenomenological model of whole brain dynamics using a network of neural oscillators with power-coupling. Sci Rep 13, 16935 (2023). [https://doi.org/10.1038/s41598-023-43547-3](https://doi.org/10.1038/s41598-023-43547-3)*
 ![Hopf Oscillator Whole Brain Model](/images/fmri_model1.png)
 
 ## MathJax 
