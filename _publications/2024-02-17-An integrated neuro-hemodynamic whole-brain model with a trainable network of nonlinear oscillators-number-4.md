@@ -3,8 +3,8 @@ title: "An integrated neuro-hemodynamic whole-brain model with a trainable
 network of nonlinear oscillators"
 collection: publications
 category: conferences
-permalink: /publication/2026-03-15-An integrated neuro-hemodynamic whole-brain model with a trainable
-network of nonlinear oscillators-number-4
+permalink: '/publication/2026-03-15-An integrated neuro-hemodynamic whole-brain model with a trainable
+network of nonlinear oscillators-number-4'
 excerpt: 'This paper is about modelling of simultaneous EEG-fMRI'
 date: 2026-03-15
 venue: 'Lisbon, Portugal'
