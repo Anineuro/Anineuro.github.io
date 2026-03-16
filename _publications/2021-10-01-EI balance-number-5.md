@@ -1,8 +1,8 @@
 ---
 title: "Excitation/Inhibition Balance to Shape Neurovascular Coupling"
 collection: publications
-category: conference
-permalink: /conference/2021-10-01-paper-title-number-5
+category: conferences
+permalink: /conference/2021-10-01-Excitation/Inhibition Balance to Shape Neurovascular Coupling-number-5
 excerpt: 'A Computational Model to Analyse E/I (Excitation/Inhibition) Dynamics for Neural Network Integrated with Astrocyte'
 date: 2021-10-01
 venue: 'IEEE CIBCB'
