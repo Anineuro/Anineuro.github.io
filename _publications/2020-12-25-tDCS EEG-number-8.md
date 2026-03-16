@@ -1,7 +1,7 @@
 ---
 title: " Preliminary Study to Classify Healthy and Lesioned Hemisphere of Ischemic Stroke Patients with Anodal Transcranial Direct Current Stimulation Technique"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-10-01-P41 A Preliminary Study to Classify Healthy and Lesioned Hemisphere of Ischemic Stroke Patients with Anodal Transcranial Direct Current Stimulation Technique-number-8
 excerpt: 'P41 A Preliminary Study to Classify Healthy and Lesioned Hemisphere of Ischemic Stroke Patients with Anodal Transcranial Direct Current Stimulation Technique'
 date: 2020-12-25
