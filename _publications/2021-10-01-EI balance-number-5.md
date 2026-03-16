@@ -1,16 +1,16 @@
 ---
-title: "SC to FC A Phenomenological Model"
+title: "ExcitationInhibition Balance to Shape Neurovascular Couplin"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-10-01-paper-title-number-2
-excerpt: 'A phenomenological Model to capture functional connectivity from structural connectivity'
-date: 2023-10-01
-venue: 'Scientific Report'
+permalink: /conference/2021-10-01-paper-title-number-2
+excerpt: 'A Computational Model to Analyse E/I (Excitation/Inhibition) Dynamics for Neural Network Integrated with Astrocyte'
+date: 2021-10-01
+venue: 'IEEE CIBCB'
 
-paperurl: ' https://doi.org/10.1038/s41598-023-43547-3'
-citation: 'Bandyopadhyay, A., Ghosh, S., Biswas, D. et al. A phenomenological model of whole brain dynamics using a network of neural oscillators with power-coupling. Sci Rep 13, 16935 (2023)'
+paperurl: ' https://doi.org/10.1109/CIBCB48159.2020.9277698'
+citation: 'Bandyopadhyay, A., Sharma, G., & Chowdhury, S. R. (2020, October). A Computational Model to Analyse E/I (Excitation/Inhibition) Dynamics for Neural Network Integrated with Astrocyte. In 2020 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) (pp. 1-8). IEEE.'
 ---
 
-A Phenomenological Model of Whole-Brain Dynamics Using a Network of Hopf Oscillators with Power-Coupling
+A Computational Model to Analyse E/I (Excitation/Inhibition) Dynamics for Neural Network Integrated with Astrocyte
 
-This work proposes a phenomenological whole-brain model in which each brain region is represented by a Hopf oscillator, capturing the transition between noisy and oscillatory neural dynamics. The oscillators are coupled through the underlying structural connectivity network, while interactions between regions are modeled using power-coupling, which enables stable phase relationships among oscillators operating at different intrinsic frequencies. This formulation allows the model to capture cross-frequency phase interactions and large-scale synchronization patterns observed in empirical brain signals. By integrating neuroimaging-derived connectivity with nonlinear dynamical systems, the framework provides an efficient and biologically interpretable approach to modeling whole-brain dynamics and emergent functional connectivity.
+This study has a  detailed biological model based on Hodgkin-Huxley Model (HHM) elucidating how an Excitation/ Inhibition (E/I) in neurons can regulate the neurovascular coupling process.
