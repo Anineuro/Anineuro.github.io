@@ -1,16 +1,14 @@
 ---
-title: "SC to FC A Phenomenological Model"
+title: " Preliminary Study to Classify Healthy and Lesioned Hemisphere of Ischemic Stroke Patients with Anodal Transcranial Direct Current Stimulation Technique"
 collection: publications
-category: manuscripts
-permalink: /publication/2023-10-01-paper-title-number-2
-excerpt: 'A phenomenological Model to capture functional connectivity from structural connectivity'
-date: 2023-10-01
-venue: 'Scientific Report'
+category: conference
+permalink: /publication/2023-10-01-P41 A Preliminary Study to Classify Healthy and Lesioned Hemisphere of Ischemic Stroke Patients with Anodal Transcranial Direct Current Stimulation Technique-number-8
+excerpt: 'P41 A Preliminary Study to Classify Healthy and Lesioned Hemisphere of Ischemic Stroke Patients with Anodal Transcranial Direct Current Stimulation Technique'
+date: 2020-12-25
+venue: 'Clinical Neurophysiology'
 
-paperurl: ' https://doi.org/10.1038/s41598-023-43547-3'
-citation: 'Bandyopadhyay, A., Ghosh, S., Biswas, D. et al. A phenomenological model of whole brain dynamics using a network of neural oscillators with power-coupling. Sci Rep 13, 16935 (2023)'
+paperurl: ' https://doi.org/10.1016/j.clinph.2019.12.047'
+citation: 'Sharma, G., Bandopadhyay, A., & Chowdhury, S. R. (2020). P41 A Preliminary Study to Classify Healthy and Lesioned Hemisphere of Ischemic Stroke Patients with Anodal Transcranial Direct Current Stimulation Technique. Clinical Neurophysiology, 131(4), e199-e200.'
 ---
 
-A Phenomenological Model of Whole-Brain Dynamics Using a Network of Hopf Oscillators with Power-Coupling
-
-This work proposes a phenomenological whole-brain model in which each brain region is represented by a Hopf oscillator, capturing the transition between noisy and oscillatory neural dynamics. The oscillators are coupled through the underlying structural connectivity network, while interactions between regions are modeled using power-coupling, which enables stable phase relationships among oscillators operating at different intrinsic frequencies. This formulation allows the model to capture cross-frequency phase interactions and large-scale synchronization patterns observed in empirical brain signals. By integrating neuroimaging-derived connectivity with nonlinear dynamical systems, the framework provides an efficient and biologically interpretable approach to modeling whole-brain dynamics and emergent functional connectivity.
+This preliminary study investigates the use of anodal transcranial direct current stimulation (tDCS) to differentiate between healthy and lesioned hemispheres in patients with ischemic stroke. By analyzing neurophysiological responses during stimulation, the study explores how cortical activity patterns vary between affected and unaffected brain regions. The findings suggest that non-invasive brain stimulation combined with neurophysiological measurements may provide useful markers for identifying hemispheric dysfunction and supporting stroke rehabilitation strategies.
