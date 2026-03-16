@@ -1,10 +1,10 @@
 ---
-title: "Sc to FC A Phenomenological Model"
+title: "SC to FC A Phenomenological Model"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: 'A phenomenological Model to capture functional connectivity from structural connectivity'
-date: 2010-10-01
+date: 2023-10-01
 venue: 'Scientific Report'
 
 paperurl: ' https://doi.org/10.1038/s41598-023-43547-3'
