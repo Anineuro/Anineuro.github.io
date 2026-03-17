@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Neuroscience, Indian Institute of Technology Madras, 2026 (expected)
+* M.Tech. in Biotechnology,Indian Institute of Technology Maandi, 2021
+* B.Tech. in Biotechnology, National Institute of Technology of Madras, 2018
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* PhD: Whole Brain Model with Collection of Non-linear oscillators 
+  * Indian Institute of Technology Madras
+  * Work on finding a mathematical theory to explain the biological phenomena with non-linear dynamics and Machine Learning Model
+  * **Supervisor:**  
+     [Dr. V. Srinivasa Chakravarthy](https://sites.google.com/view/cnslabiitmadras/)
 
 * Fall 2015: Research Assistant
   * GitHub University
