@@ -1,7 +1,7 @@
 ---
 title: "Preprocessing and Feature Selection of EEG data"
 collection: talks
-type: "Tutorial"
+type: "Workshop"
 permalink: /talks/Preprocessing and Feature Selection of EEG data
 venue: "Indian Institute of Technology Madras India"
 date: 2025-03-01
