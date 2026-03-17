@@ -39,7 +39,7 @@ Skills
 ## Computation and Modeling
 
 **🧩 Computational Neuroscience**  
-`Whole-brain modeling` • `EEG–fMRI integration`  • `Neurovascular coupling`  
+`Whole-brain modeling` • `EEG–fMRI integration`  • `Neurovascular coupling` •  `Simultaneous Heart-Brain/ Gut Modelling`
 
 **⚙️ Methods & Modeling**  
 `Nonlinear dynamical systems` • `Hopf oscillators` • `Reservoir computing` • `Recurrant Neural Network` • `Complex valued Network` 
@@ -54,34 +54,39 @@ Skills
 
 ## ⚙️ 📊 Experimental Design and Data Acquision
 
-- ⚡ ** tDCS (Transcranial Direct Current Stimulation):**  
-  Experience in non-invasive brain stimulation protocols, experimental design, and cortical modulation studies for Cerebral Ischemic Stroke Patients 
+- ⚡ **tDCS (Transcranial Direct Current Stimulation):**  
+  `Experience in non-invasive brain stimulation protocols` • `experimental design` • `cortical modulation studies for Cerebral Ischemic Stroke Patients` 
 
 - 🧠 **EEG (Electroencephalography):**  
-  Signal acquisition, preprocessing, and analysis of neural oscillations and brain dynamics  
+  `Signal acquisition`•  `preprocessing` •  `analysis of neural oscillations and brain dynamics`  
 
 - 🌐 **fMRI (Functional MRI):**  
-  Analysis of large-scale brain activity, functional connectivity, and multimodal EEG–fMRI integration  
+  `Analysis of large-scale brain activity` • `functional connectivity` • `multimodal EEG–fMRI integration`  
 
 - 🩸 **NIRS (Near-Infrared Spectroscopy):**  
-  Investigation of hemodynamic responses and neurovascular coupling during  rehabilitation with tDCS Cerebral Ischemic Stroke Patients.
-
+  ` hemodynamic responses  neurovascular coupling during  rehabilitation with tDCS Cerebral Ischemic Stroke Patients`.
   
+- ❤️/ 🧠 **ECG (Electro-Cardiogram):**
+  
+  `Analysis of ECG data`,  `Relationship between Heart and Brain Rhythm` 
+  
+-  🍽️ / 🧠 **EGG (Electro-Cardiogram):**
 
+   `Analysis of ECG data`,  `Relationship between Heart and Brain Rhythm` 
 
 ## 🧬 Biological & Experimental Skills
 
 🧪 **Molecular & Analytical Techniques**  
-`PCR` • `Western Blot` • `Gel Electrophoresis` • `DNA/RNA extraction`  
+   *`PCR` • `Western Blot` • `Gel Electrophoresis` • `DNA/RNA extraction`  
 
 🔬 **Cellular Techniques**  
-`Animal cell culture` • `Microbial culture` • `Passaging` • `Tissue processing`  
+   *`Animal cell culture` • `Microbial culture` • `Passaging` • `Tissue processing`  
 
 🧬 **Biochemical Assays**  
-`Protein quantification (e.g., Bradford/Lowry)` • `Enzymatic assays` • `Spectrophotometric analysis`  
+    *`Protein quantification (e.g., Bradford/Lowry)` • `Enzymatic assays` • `Spectrophotometric analysis`  
 
 💻 **Bioinformatics & Data Analysis**  
-`Sequence analysis (BLAST)` • `FASTA/FASTQ processing` • `Gene expression analysis` • `Statistical analysis (PCA/ICA)`  
+     *`Sequence analysis (BLAST)` • `FASTA/FASTQ processing` • `Gene expression analysis` • `Statistical analysis (PCA/ICA)`  
 
   
 
