@@ -35,18 +35,18 @@ Skills
 ## Computation and Modeling
 
 **🧩 Computational Neuroscience**  
-Whole-brain modeling • EEG–fMRI integration • Neurovascular coupling  `Whole-brain modeling`
+`Whole-brain modeling` • `EEG–fMRI integration`  • `Neurovascular coupling`  
 
 **⚙️ Methods & Modeling**  
-Nonlinear dynamical systems • Hopf oscillators • Reservoir computing • Recurrant Neural Network • Complex valued Network 
+`Nonlinear dynamical systems` • `Hopf oscillators` • `Reservoir computing` • `Recurrant Neural Network` • `Complex valued Network` 
 
 **💻 Programming**  
-Python • MATLAB  
+`Python` • `MATLAB` • `C` 
 
 **🧠 Neuroimaging & Analysis**  
-- **fMRI:** SPM • FSL • AFNI • CONN • Nilearn • fMRIPrep  
-- **EEG:** EEGLAB • FieldTrip • MNE-Python • Brainstorm  
-- **DTI:** FSL (FDT) • MRtrix3 • DIPY • DSI Studio  
+- **`fMRI`:** SPM • FSL • AFNI • CONN • Nilearn • fMRIPrep  
+- **`EEG`:** EEGLAB • FieldTrip • MNE-Python • Brainstorm  
+- **`DTI`:** FSL (FDT) • MRtrix3 • DIPY • DSI Studio  
 
 * Skill 2
   * Sub-skill 2.1
