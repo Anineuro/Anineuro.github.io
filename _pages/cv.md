@@ -44,14 +44,25 @@ Skills
 `Python` • `MATLAB` • `C` 
 
 **🧠 Neuroimaging & Analysis**  
-- **`fMRI`:** SPM • FSL • AFNI • CONN • Nilearn • fMRIPrep  
-- **`EEG`:** EEGLAB • FieldTrip • MNE-Python • Brainstorm  
-- **`DTI`:** FSL (FDT) • MRtrix3 • DIPY • DSI Studio  
+- **fMRI:** SPM • FSL • AFNI • CONN • Nilearn • fMRIPrep  
+- **EEG:** EEGLAB • FieldTrip • MNE-Python • Brainstorm  
+- **DTI:** FSL (FDT) • MRtrix3 • DIPY • DSI Studio  
 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+## 🧪 Experimental Design and Data Acquision
+
+- ⚡ ** tDCS (Transcranial Direct Current Stimulation):**  
+  Experience in non-invasive brain stimulation protocols, experimental design, and cortical modulation studies  
+
+- 🧠 **EEG (Electroencephalography):**  
+  Signal acquisition, preprocessing, and analysis of neural oscillations and brain dynamics  
+
+- 🌐 **fMRI (Functional MRI):**  
+  Analysis of large-scale brain activity, functional connectivity, and multimodal EEG–fMRI integration  
+
+- 🩸 **NIRS (Near-Infrared Spectroscopy):**  
+  Investigation of hemodynamic responses and neurovascular coupling during cognitive and rehabilitation tasks
+
+  
 * Skill 3
 
 Publications
