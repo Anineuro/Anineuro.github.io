@@ -13,29 +13,31 @@ Education
 ======
 * Ph.D in Computational Neuroscience, Indian Institute of Technology Madras, 2026 (expected)
 * M.Tech. in Biotechnology,Indian Institute of Technology Maandi, 2021
-* B.Tech. in Biotechnology, National Institute of Technology of Madras, 2018
+* B.Tech. in Biotechnology, National Institute of Technology of Durgapur, 2018
 
 Research experience
 ======
 * PhD: Whole Brain Model with Collection of Non-linear oscillators 
   * Indian Institute of Technology Madras
-  * Work on finding a mathematical theory to explain the biological phenomena with non-linear dynamics and Machine Learning Model
+  * Working on finding a mathematical theory to explain the biological phenomena in Brain with non-linear dynamics and Machine Learning Model
   * Supervisor:  [Dr. V. Srinivasa Chakravarthy](https://sites.google.com/view/cnslabiitmadras/)
      
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Master: Computational and System level analysis of Neurovascular coupling
+  * Indian Institute of Technology Mandi
+  * Deciphering Biological events underlying the neurovascular phenomena from both experimental data and computational modelling
+  * Supervisor: Professor [Dr. Shubhajit Roy Chowdhury](https://faculty.iitmandi.ac.in/~src/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
-* Skill 1
+# Computational:
+**Whole-brain modeling, EEG–fMRI, neurovascular coupling  
+**Methods:** Nonlinear dynamics, Hopf oscillators, reservoir computing  
+**Programming:** Python, MATLAB  
+**Neuroimaging:** fMRI, EEG, DTI
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
