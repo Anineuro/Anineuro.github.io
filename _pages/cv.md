@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computational Neuroscience, Indian Institute of Technology Madras, 2026 (expected)
-* M.Tech. in Biotechnology, Indian Institute of Technology Maandi, 2021
-* B.Tech. in Biotechnology, National Institute of Technology of Durgapur, 2018
 
 Research experience
 ======
@@ -67,26 +62,24 @@ Skills
   ` hemodynamic responses  neurovascular coupling during  rehabilitation with tDCS Cerebral Ischemic Stroke Patients`.
   
 - ❤️/ 🧠 **ECG (Electro-Cardiogram):**
-  
   `Analysis of ECG data`,  `Relationship between Heart and Brain Rhythm` 
   
 -  🍽️ / 🧠 **EGG (Electro-Cardiogram):**
-
-   `Analysis of ECG data`,  `Relationship between Heart and Brain Rhythm` 
+     `Analysis of EGG data`,  `Relationship between Gut and Brain Rhythm` 
 
 ## 🧬 Biological & Experimental Skills
 
 🧪 **Molecular & Analytical Techniques**  
-   *`PCR` • `Western Blot` • `Gel Electrophoresis` • `DNA/RNA extraction`  
+   `PCR` • `Western Blot` • `Gel Electrophoresis` • `DNA/RNA extraction`  
 
 🔬 **Cellular Techniques**  
-   *`Animal cell culture` • `Microbial culture` • `Passaging` • `Tissue processing`  
+   `Animal cell culture` • `Microbial culture` • `Passaging` • `Tissue processing`  
 
 🧬 **Biochemical Assays**  
-    *`Protein quantification (e.g., Bradford/Lowry)` • `Enzymatic assays` • `Spectrophotometric analysis`  
+    `Protein quantification (e.g., Bradford/Lowry)` • `Enzymatic assays` • `Spectrophotometric analysis`  
 
 💻 **Bioinformatics & Data Analysis**  
-     *`Sequence analysis (BLAST)` • `FASTA/FASTQ processing` • `Gene expression analysis` • `Statistical analysis (PCA/ICA)`  
+     `Sequence analysis (BLAST)` • `FASTA/FASTQ processing` • `Gene expression analysis` • `Statistical analysis (PCA/ICA)`  
 
   
 
@@ -102,7 +95,24 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+
+Scholastic Achievements and Awards
+======
+- Travel Award, COSYNE Conference 2026, Lisbon, 2026, provided by- Simons Foundation, Burroughs Wellcome Fund, The Kavli Foundation,
+Allen Institute for Brain Science, Gatsby Charitable Foundation.  
+- HTRA (Half-Time Research Assistantship) Award with Monthly Scholarship during PhD (2021-2026) from MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+- Secured All India Rank 182 in GATE (Graduate Aptitude Test) with 98.3 percentile in 2019 rganized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+- HTRA (Half-Time Research Assistantship) Award with Monthly Scholarship during Masters (2018-2020) from MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+- Secured All India Rank 280 in GATE (Graduate Aptitude Test) with 97.2 percentile in 2018, organized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+- Passed JEE (Joined Entrance Examination)- Main with 96.4 percentile organized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India on 2014
+
+Education
+======
+* Ph.D in Computational Neuroscience, Indian Institute of Technology Madras, 2026 (expected)
+* M.Tech. in Biotechnology, Indian Institute of Technology Maandi, 2021
+* B.Tech. in Biotechnology, National Institute of Technology of Durgapur, 2018
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
