@@ -15,8 +15,8 @@ var addressPoints = [
     80.2482323
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "A phenomenological deep oscillatory neural network model to capture the whole brain dynamics in terms of bold signal<br />International Conference on Neural Information Processing (ICONIP); IIT Indore, India",
+    22.5269276,
+    75.9262066
   ]
 ];
