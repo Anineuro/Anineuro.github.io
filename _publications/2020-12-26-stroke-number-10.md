@@ -1,16 +1,14 @@
 ---
-title: "SC to FC A Phenomenological Model"
+title: "A preliminary study on vascular activity with ischemic stroke rehabilitation technique"
 collection: publications
-category: manuscripts
-permalink: /publication/2023-10-01-paper-title-number-2
-excerpt: 'A phenomenological Model to capture functional connectivity from structural connectivity'
+category: conferences
+permalink: /publication/2023-10-01-P111 a preliminary study on vascular activity with ischemic stroke rehabilitation technique-number-10
+excerpt: 'P111 a preliminary study on vascular activity with ischemic stroke rehabilitation technique'
 date: 2023-10-01
-venue: 'Scientific Report'
+venue: 'Clinical Neurophysiology'
 
-paperurl: ' https://doi.org/10.1038/s41598-023-43547-3'
-citation: 'Bandyopadhyay, A., Ghosh, S., Biswas, D. et al. A phenomenological model of whole brain dynamics using a network of neural oscillators with power-coupling. Sci Rep 13, 16935 (2023)'
+paperurl: ' https://doi.org/10.1016/j.clinph.2019.12.222'
+citation: 'Sharma, G., Bandopadhyay, A., & Chowdhury, S. R. (2020). P111 a preliminary study on vascular activity with ischemic stroke rehabilitation technique. Clinical Neurophysiology, 131(4), e73-e75.'
 ---
 
-A Phenomenological Model of Whole-Brain Dynamics Using a Network of Hopf Oscillators with Power-Coupling
-
-This work proposes a phenomenological whole-brain model in which each brain region is represented by a Hopf oscillator, capturing the transition between noisy and oscillatory neural dynamics. The oscillators are coupled through the underlying structural connectivity network, while interactions between regions are modeled using power-coupling, which enables stable phase relationships among oscillators operating at different intrinsic frequencies. This formulation allows the model to capture cross-frequency phase interactions and large-scale synchronization patterns observed in empirical brain signals. By integrating neuroimaging-derived connectivity with nonlinear dynamical systems, the framework provides an efficient and biologically interpretable approach to modeling whole-brain dynamics and emergent functional connectivity.
+This preliminary study investigates changes in vascular activity during ischemic stroke rehabilitation. By analyzing neurovascular responses associated with rehabilitation techniques, the work explores how therapeutic interventions influence cerebral blood flow and vascular dynamics. The study provides early insights into the role of neurovascular coupling in stroke recovery and highlights the potential of vascular signals as indicators for monitoring rehabilitation outcomes.
