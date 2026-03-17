@@ -100,11 +100,16 @@ Talks
 Scholastic Achievements and Awards
 ======
 - Travel Award, COSYNE Conference 2026, Lisbon, 2026, provided by- Simons Foundation, Burroughs Wellcome Fund, The Kavli Foundation,
-Allen Institute for Brain Science, Gatsby Charitable Foundation.  
+Allen Institute for Brain Science, Gatsby Charitable Foundation.
+
 - HTRA (Half-Time Research Assistantship) Award with Monthly Scholarship during PhD (2021-2026) from MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+  
 - Secured All India Rank 182 in GATE (Graduate Aptitude Test) with 98.3 percentile in 2019 rganized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+  
 - HTRA (Half-Time Research Assistantship) Award with Monthly Scholarship during Masters (2018-2020) from MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+  
 - Secured All India Rank 280 in GATE (Graduate Aptitude Test) with 97.2 percentile in 2018, organized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+  
 - Passed JEE (Joined Entrance Examination)- Main with 96.4 percentile organized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India on 2014
 
 Education
