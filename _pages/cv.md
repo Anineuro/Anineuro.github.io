@@ -32,13 +32,13 @@ Research experience
   
 Skills
 ======
-## 🧠 Skills
+## Computation and Modeling
 
 **🧩 Computational Neuroscience**  
-Whole-brain modeling • EEG–fMRI integration • Neurovascular coupling  
+Whole-brain modeling • EEG–fMRI integration • Neurovascular coupling  `Whole-brain modeling`
 
 **⚙️ Methods & Modeling**  
-Nonlinear dynamical systems • Hopf oscillators • Reservoir computing  
+Nonlinear dynamical systems • Hopf oscillators • Reservoir computing • Recurrant Neural Network • Complex valued Network 
 
 **💻 Programming**  
 Python • MATLAB  
