@@ -23,7 +23,7 @@ Research experience
   * Supervisor:  [Dr. V. Srinivasa Chakravarthy](https://sites.google.com/view/cnslabiitmadras/)
      
 
-* Master: Computational and System level analysis of Neurovascular coupling
+* M.Tech: Computational and System level analysis of Neurovascular coupling
   * Indian Institute of Technology Mandi
   * Deciphering Biological events underlying the neurovascular phenomena from both experimental data and computational modelling
   * Supervisor: Professor [Dr. Shubhajit Roy Chowdhury](https://faculty.iitmandi.ac.in/~src/)
@@ -32,11 +32,21 @@ Research experience
   
 Skills
 ======
-# Computational:
-**Whole-brain modeling, EEG–fMRI, neurovascular coupling  
-**Methods:** Nonlinear dynamics, Hopf oscillators, reservoir computing  
-**Programming:** Python, MATLAB  
-**Neuroimaging:** fMRI, EEG, DTI
+## 🧠 Skills
+
+**🧩 Computational Neuroscience**  
+Whole-brain modeling • EEG–fMRI integration • Neurovascular coupling  
+
+**⚙️ Methods & Modeling**  
+Nonlinear dynamical systems • Hopf oscillators • Reservoir computing  
+
+**💻 Programming**  
+Python • MATLAB  
+
+**🧠 Neuroimaging & Analysis**  
+- **fMRI:** SPM • FSL • AFNI • CONN • Nilearn • fMRIPrep  
+- **EEG:** EEGLAB • FieldTrip • MNE-Python • Brainstorm  
+- **DTI:** FSL (FDT) • MRtrix3 • DIPY • DSI Studio  
 
 * Skill 2
   * Sub-skill 2.1
