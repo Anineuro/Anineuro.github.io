@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2023-10-01-P111 a preliminary study on vascular activity with ischemic stroke rehabilitation technique-number-10
 excerpt: 'P111 a preliminary study on vascular activity with ischemic stroke rehabilitation technique'
-date: 2023-10-01
+date: 2020-12-26
 venue: 'Clinical Neurophysiology'
 
 paperurl: ' https://doi.org/10.1016/j.clinph.2019.12.222'
