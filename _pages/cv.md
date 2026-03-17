@@ -20,8 +20,8 @@ Research experience
 * PhD: Whole Brain Model with Collection of Non-linear oscillators 
   * Indian Institute of Technology Madras
   * Work on finding a mathematical theory to explain the biological phenomena with non-linear dynamics and Machine Learning Model
-  * **Supervisor:**  
-     [Dr. V. Srinivasa Chakravarthy](https://sites.google.com/view/cnslabiitmadras/)
+  * Supervisor:  [Dr. V. Srinivasa Chakravarthy](https://sites.google.com/view/cnslabiitmadras/)
+     
 
 * Fall 2015: Research Assistant
   * GitHub University
