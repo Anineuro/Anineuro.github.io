@@ -39,10 +39,10 @@ Skills
 `Whole-brain modeling` • `EEG–fMRI integration`  • `Neurovascular coupling` •  `Simultaneous Heart-Brain/ Gut Modelling`
 
 **⚙️ Methods & Modeling**  
-`Nonlinear dynamical systems` • `Hopf oscillators` • `Reservoir computing` • `Recurrant Neural Network` • `Complex valued Network` 
+`Nonlinear dynamical systems` • `Hopf oscillators` • `Reservoir computing` • `Recurrent Neural Network` • `Complex valued Network` 
 
 **💻 Programming**  
-`Python` • `MATLAB` • `C` 
+`Python` • `MATLAB` • `C` • `SQL` • `R`
 
 **🧠 Neuroimaging & Analysis**  
 - **fMRI:** `SPM` • `FREESURFER` • `AFNI` • `CONN` • `Nilearn` • `fMRIPrep`  
