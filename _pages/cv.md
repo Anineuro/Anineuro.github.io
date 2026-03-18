@@ -99,18 +99,17 @@ Talks
 
 Scholastic Achievements and Awards
 ======
-- Travel Award, COSYNE Conference 2026, Lisbon, 2026, provided by- Simons Foundation, Burroughs Wellcome Fund, The Kavli Foundation,
-Allen Institute for Brain Science, Gatsby Charitable Foundation.
+- **Travel Award, COSYNE Conference 2026,** Lisbon, 2026, provided by- *Simons Foundation, Burroughs Wellcome Fund, The Kavli Foundation, Allen Institute for Brain Science, Gatsby Charitable Foundation*.
 
-- HTRA (Half-Time Research Assistantship) Award with Monthly Scholarship during PhD (2021-2026) from MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+- **HTRA (Half-Time Research Assistantship) Award** with Monthly Scholarship during PhD (2021-2026) from *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
   
-- Secured All India Rank 182 in GATE (Graduate Aptitude Test) with 98.3 percentile in 2019 rganized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+- Secured **All India Rank 182** in GATE (Graduate Aptitude Test) with *98.3 percentile* in 2019 organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
   
-- HTRA (Half-Time Research Assistantship) Award with Monthly Scholarship during Masters (2018-2020) from MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+- **HTRA (Half-Time Research Assistantship) Award** with Monthly Scholarship during Masters (2018-2020) from *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
   
-- Secured All India Rank 280 in GATE (Graduate Aptitude Test) with 97.2 percentile in 2018, organized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India
+- Secured All India Rank 280 in GATE (Graduate Aptitude Test) with 97.2 percentile in 2018, organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
   
-- Passed JEE (Joined Entrance Examination)- Main with 96.4 percentile organized by MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education), Govt. of India on 2014
+- Passed JEE (Joined Entrance Examination)- Main with *96.4 percentile* organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India** on 2014
 
 Education
 ======
@@ -120,10 +119,15 @@ Education
  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+- ** Teaching Assistantship
+     * Courses- Introduction to Life Science, Analysis and Interpretation of Bioligical Data, Principle of Neuroscience,   Computational Neurosciece.
+     * Online Course- Demistifying the Brain (2022)
+     * Guide multiple B.Tech and MS students in their thesis  
+
+   
+Collaborators
 ======
-* Currently signed in to 43 different slack teams
+* Dr. Bapi Raju S, IIIT Hyderabad
+* Dr. Dipanjan Roy, IIT Jodhpur
+* Dr. Pragathi Balasubhramanium, IIT Kanpur
+* Dr. Parul Verma, IIT Madras
