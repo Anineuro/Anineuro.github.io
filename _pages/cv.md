@@ -45,7 +45,7 @@ Skills
 `Python` • `MATLAB` • `C` 
 
 **🧠 Neuroimaging & Analysis**  
-- **fMRI:** `SPM` • `FSL` • `AFNI` • `CONN` • `Nilearn` • `fMRIPrep`  
+- **fMRI:** `SPM` • `FREESURFER` • `AFNI` • `CONN` • `Nilearn` • `fMRIPrep`  
 - **EEG:** `EEGLAB` • `FieldTrip` • `MNE-Python` • `Brainstorm`  
 - **DTI:** `FSL (FDT)` • `MRtrix3` • `DIPY` • `DSI Studio`  
 
