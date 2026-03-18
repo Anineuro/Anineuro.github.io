@@ -69,6 +69,10 @@ Influnce of brain dynamics by autonomic nervous sytem has been in mystery. We th
 
 I am influenced by the work of Catherine Tallon-Baudry. [https://sites.google.com/view/tallon-baudry-lab/home?authuser=0](https://sites.google.com/view/tallon-baudry-lab/home?authuser=0), and his works regarding in this area.  
 
+Understanding interoception with a pure mathematical framework that can explanin the simultaneous recording data from MEG-ECG, EEG-EGG etc.
+
+Such modelling framework can also explain the functionality of Vegus Nerve stimulation, which is gaining popularity recently.
+
 
 
 Earlier Projects 
