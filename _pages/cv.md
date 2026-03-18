@@ -15,7 +15,7 @@ Research experience
 * PhD: Whole Brain Model with Collection of Non-linear oscillators 
   * Indian Institute of Technology Madras
   * Working on finding a mathematical theory to explain the biological phenomena in Brain with non-linear dynamics and Machine Learning Model
-  * Understanding interoception with a pur mathematical framework that can explanin the simultaneous recording data from MEG-ECG, EEG-EGG etc.
+  * Understanding interoception with a pure mathematical framework that can explanin the simultaneous recording data from MEG-ECG, EEG-EGG etc.
   * Supervisor:  [Dr. V. Srinivasa Chakravarthy](https://sites.google.com/view/cnslabiitmadras/)
      
 
@@ -105,13 +105,13 @@ Scholastic Achievements and Awards
 
 - **HTRA (Half-Time Research Assistantship) Award** with Monthly Scholarship during PhD (2021-2026) from *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
   
-- Secured **All India Rank 182** in GATE (Graduate Aptitude Test) with *98.3 percentile* in 2019 organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
+- Secured **All India Rank 182** in GATE (Graduate Aptitude Test) with **98.3 percentile** in 2019 organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
   
 - **HTRA (Half-Time Research Assistantship) Award** with Monthly Scholarship during Masters (2018-2020) from *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
   
-- Secured All India Rank 280 in GATE (Graduate Aptitude Test) with 97.2 percentile in 2018, organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
+- Secured All India Rank 280 in GATE (Graduate Aptitude Test) with **97.2 percentile** in 2018, organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India**
   
-- Passed JEE (Joined Entrance Examination)- Main with *96.4 percentile* organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India** on 2014
+- Passed JEE (Joined Entrance Examination)- Main with **96.4 percentile** organized by *MHRD (Ministry of Human Resource Development, now MoE or Ministry of Education)*, **Govt. of India** on 2014
 
 Education
 ======
