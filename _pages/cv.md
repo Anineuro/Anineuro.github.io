@@ -121,7 +121,7 @@ Education
  
 Teaching
 ======
-- ** Teaching Assistantship
+- **Teaching Assistantship**
      * Courses- Introduction to Life Science, Analysis and Interpretation of Bioligical Data, Principle of Neuroscience,   Computational Neurosciece.
      * Online Course- Demistifying the Brain (2022)
      * Guide multiple B.Tech and MS students in their thesis  
@@ -129,7 +129,7 @@ Teaching
    
 Collaborators
 ======
-* Dr. Bapi Raju S, IIIT Hyderabad
-* Dr. Dipanjan Roy, IIT Jodhpur
-* Dr. Pragathi Balasubhramanium, IIT Kanpur
-* Dr. Parul Verma, IIT Madras
+* Dr. [Bapi Raju S](https://www.iiit.ac.in/faculty/bapi-raju-s/), IIIT Hyderabad
+* [Dr. Dipanjan Roy](https://dipanjanr.com/people-2/), IIT Jodhpur
+* [Dr. Pragathi Balasubhramanium](https://sites.google.com/site/pragathipriyadharsini/), IIT Kanpur
+* [Dr. Parul Verma](https://parulv1.github.io), IIT Madras
