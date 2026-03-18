@@ -7,8 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. My research lies in the the intersection of **machine learning, nonlinear dynamical systems, and neuroscience**, aiming to develop mechanistic models that explain large-scale brain dynamics. I am particularly interested in building theoretical frameworks that link microscopic neural activity to macroscopic brain signals.
-I am  Looking for a *Post-doctoral or Research Assistantship postion* to further continue my journey of research.  
+Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. My research lies in the the intersection of **machine learning, nonlinear dynamical systems, and neuroscience**, aiming to develop mechanistic models that explain large-scale brain dynamics.
+
+I am particularly interested in building theoretical frameworks that link *microscopic neural activity to macroscopic brain signals*, a theoretical model that can capture both *behavioral pattern along with brain dynamics*, and applying recent development in deep learning to understand *"How Brain Works?"*
+
+
+I am  Looking for a *Post-doctoral or Research Assistantship postion* in those related field to further continue my journey of research.  
 
 Research Overview
 ======
@@ -26,9 +30,11 @@ My work explores how nonlinear dynamical systems can capture the fundamental pro
 ##  🚀 Heart Brain Interaction
  Does the brain operate in isolation?
 Recent research suggests that visceral organs can significantly influence brain dynamics. I am currently developing a closed-loop feedback model to study interactions between the brain and peripheral physiological systems, with the goal of understanding how bodily signals shape neural activity. Refer to the "Research Experinece" Tab for more.
+
+This study involves developing a new kind of oscillator based neural network (both feedforward and recurrent) development.  
  
 ##  🚀 Other Projects
- I worked other very intersting concepts like- Neurovascular coupling, how the neural activities orchestarte the vascular dynamics medisted by a cascade of biological events in Astrocyte. I also worked on non-invasive brain stimulation to rehabilitate brain disorders, like Cerebral Ischemic Stroke 
+ I worked other very intersting concepts like- Neurovascular coupling, how the neural activities orchestarte the vascular dynamics medisted by a cascade of biological events in Astrocyte. I also worked on non-invasive brain stimulation to rehabilitate brain disorders, like Cerebral Ischemic Stroke. 
 
 
 
