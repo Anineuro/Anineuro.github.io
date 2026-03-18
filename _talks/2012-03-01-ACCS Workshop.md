@@ -8,4 +8,4 @@ date: 2023-12-08
 location: "IIT Kanpur, Kanpur, India"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+Basic Introduction about how the network of non-linear oscillators can be useful to understand the brain dynamics
