@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. My research lies in the the intersection of **machine learning, nonlinear dynamical systems, and neuroscience**, aiming to develop mechanistic models that explain large-scale brain dynamics.
 
-I am particularly interested in building theoretical frameworks that link *microscopic neural activity to macroscopic brain signals*, a theoretical model that can capture both *behavioral pattern along with brain dynamics*, and applying recent development in deep learning to understand *"How Brain Works?"*
+# ANIRBAN BANDYOPADHYAY
 
+**PhD Researcher — Computational Neuroscience, IIT Madras**
+
+Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. My research lies at the intersection of nonlinear dynamical systems and neuroscience.
+
+I am interested in how large-scale brain activity emerges from structural connectivity, and how computational models can bridge theoretical neuroscience with real neuroimaging data. More broadly, I explore how machine learning and dynamical systems can be combined to better understand brain function and behavior.
 
 I am  Looking for a *Post-doctoral or Research Assistantship postion* in those related field to further continue my journey of research.  
 
