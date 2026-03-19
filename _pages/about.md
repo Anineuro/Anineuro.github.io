@@ -11,7 +11,7 @@ redirect_from:
 ## 👋 Hi!! Welcome to Anirban’s Homepage !!
 ### PhD Researcher — Computational Neuroscience 
 
-I develop whole-brain dynamical models that integrate EEG and fMRI to understand how brain structure gives rise to function. My research lies at the intersection of nonlinear dynamical systems, neuroimaging, and machine learning, with applications in brain disorders and neurorehabilitation.
+I develop whole-brain dynamical models that integrate EEG, fMRI and DTI to understand how brain structure gives rise to function. My research lies at the intersection of nonlinear dynamical systems, neuroimaging, and machine learning, with applications in brain disorders and neurorehabilitation.
 
 I am currently seeking *postdoctoral or research positions* to further advance this line of work.
 
@@ -44,7 +44,7 @@ My work explores how nonlinear dynamical systems can capture the fundamental pro
  
 Recent research suggests that visceral organs can significantly influence brain dynamics. I am currently developing a closed-loop feedback model to study interactions between the brain and peripheral physiological systems, with the goal of understanding how bodily signals shape neural activity. Refer to the "Research Experinece" Tab for more.
 
-This study involves developing a new kind of oscillator based neural network (both feedforward and recurrent) development.  
+This study involves developing a new kind of *oscillator based neural network (both feedforward and recurrent)* development.  
  
 ##  🚀 Other Projects
  I worked other very intersting concepts like- Neurovascular coupling, how the neural activities orchestarte the vascular dynamics mediated by a cascade of biological events in Astrocyte. I also worked on non-invasive brain stimulation to rehabilitate brain disorders, like Cerebral Ischemic Stroke. 
