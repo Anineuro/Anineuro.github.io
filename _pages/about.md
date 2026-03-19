@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi!! Welcome to Anirban's Homepage !! "
+title: "Anirban Bandyopadhyay !! "
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,7 @@ redirect_from:
 
 
 
-
-**PhD Researcher — Computational Neuroscience**
+### PhD Researcher — Computational Neuroscience 
 
 Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. My research lies at the intersection of nonlinear dynamical systems and neuroscience.
 
