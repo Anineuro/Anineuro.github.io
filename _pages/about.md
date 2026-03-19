@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# ANIRBAN BANDYOPADHYAY
+
 
 **PhD Researcher — Computational Neuroscience, IIT Madras**
 
