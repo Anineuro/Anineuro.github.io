@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# PhD Researcher — Computational Neuroscience, IIT Madras
+**PhD Researcher — Computational Neuroscience**
 
 Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. My research lies at the intersection of nonlinear dynamical systems and neuroscience.
 
