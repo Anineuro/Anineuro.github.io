@@ -13,7 +13,7 @@ redirect_from:
 
 I develop whole-brain dynamical models that integrate EEG and fMRI to understand how brain structure gives rise to function. My research lies at the intersection of nonlinear dynamical systems, neuroimaging, and machine learning, with applications in brain disorders and neurorehabilitation.
 
-I am currently seeking postdoctoral or research positions to further advance this line of work.
+I am currently seeking *postdoctoral or research positions* to further advance this line of work.
 
 About
 ======
@@ -24,7 +24,7 @@ My work focuses on understanding how **large-scale brain activity** emerges from
 
 More broadly, I explore how dynamical systems and machine learning can be combined to build interpretable models of brain function and behavior.
 
-I am  Looking for a *Post-doctoral or Research Assistantship postion* in those related field to further continue my journey of research.  
+ 
 
 Research Overview
 ======
