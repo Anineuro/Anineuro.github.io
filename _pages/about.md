@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anirban Bandyopadhyay !! "
+title: "ANIRBAN BANDYOPADHYAY !! "
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,18 @@ redirect_from:
 
 ### PhD Researcher — Computational Neuroscience 
 
-Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. My research lies at the intersection of nonlinear dynamical systems and neuroscience.
+I develop whole-brain dynamical models that integrate EEG and fMRI to understand how brain structure gives rise to function. My research lies at the intersection of nonlinear dynamical systems, neuroimaging, and machine learning, with applications in brain disorders and neurorehabilitation.
 
-I am interested in how large-scale brain activity emerges from structural connectivity, and how computational models can bridge theoretical neuroscience with real neuroimaging data. More broadly, I explore how machine learning and dynamical systems can be combined to better understand brain function and behavior.
+I am currently seeking postdoctoral or research positions to further advance this line of work.
+
+About
+======
+
+Hi!! I am ANIRBAN BANDYOPADHYAY , PhD scholar at [IIT Madras](https://www.iitm.ac.in/) and Working under the supervision of [Dr. V. Srinivasa Chakrvarthy](https://sites.google.com/view/cnslabiitmadras/) in Computational Neuroscience Lab. 
+
+My work focuses on understanding how **large-scale brain activity** emerges from structural connectivity using computational models grounded in *dynamical systems theory*. I am particularly interested in bridging theoretical neuroscience with real neuroimaging data such as EEG and fMRI.
+
+More broadly, I explore how dynamical systems and machine learning can be combined to build interpretable models of brain function and behavior.
 
 I am  Looking for a *Post-doctoral or Research Assistantship postion* in those related field to further continue my journey of research.  
 
@@ -31,7 +40,8 @@ Research Overview
 My work explores how nonlinear dynamical systems can capture the fundamental properties of brain rhythms, including relationships in frequency, phase, and amplitude across large-scale brain networks. Traditional biophysical models such as the Hodgkin–Huxley framework rely on extensive parameter optimization, while purely machine learning–based models often lack biological interpretability. Dynamical-system–based approaches offer a principled middle ground by combining biological plausibility with data-driven learning, enabling interpretable models of large-scale neural dynamics. Refer to the "Research Experinece" Tab for more.
 
 ##  🚀 Heart Brain Interaction
- Does the brain operate in isolation?
+ *Does the brain operate in isolation?*
+ 
 Recent research suggests that visceral organs can significantly influence brain dynamics. I am currently developing a closed-loop feedback model to study interactions between the brain and peripheral physiological systems, with the goal of understanding how bodily signals shape neural activity. Refer to the "Research Experinece" Tab for more.
 
 This study involves developing a new kind of oscillator based neural network (both feedforward and recurrent) development.  
