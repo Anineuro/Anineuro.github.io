@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ANIRBAN BANDYOPADHYAY !! "
+title: "!!ANIRBAN BANDYOPADHYAY !! "
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-
+## 👋 Hi!! Welcome to Anirban’s Homepage !!
 ### PhD Researcher — Computational Neuroscience 
 
 I develop whole-brain dynamical models that integrate EEG and fMRI to understand how brain structure gives rise to function. My research lies at the intersection of nonlinear dynamical systems, neuroimaging, and machine learning, with applications in brain disorders and neurorehabilitation.
